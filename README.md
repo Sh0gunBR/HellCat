@@ -3,7 +3,9 @@
 
 # Installation
   >git clone https://github.com/Sh0gunBR/HellCat/
+  -
   >cd HellCat
+  -
   >pip3 install -r requirements.txt
 
 # Usage
